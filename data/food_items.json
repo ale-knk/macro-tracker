@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Iogur Griego Natural",
+    "calories": 60,
+    "protein": 5.8,
+    "fat": 2.0,
+    "carbs": 4.7
+  },
+  {
+    "name": "Pavo Embutido",
+    "category": "Embutido",
+    "calories": 89,
+    "protein": 19.5,
+    "fat": 1.3,
+    "carbs": 1.0
+  },
+  {
+    "name": "Jamón Serrano",
+    "category": "Embutido",
+    "calories": 247.8,
+    "protein": 33.5,
+    "fat": 12.2,
+    "carbs": 1
+  },
+  {
+    "name": "Pechuga Pollo Embutido",
+    "category": "Embutido",
+    "calories": 89,
+    "protein": 18.1,
+    "fat": 1.7,
+    "carbs": 1.0
+  },
+  {
+    "name": "Pollo Carloteña Embutido",
+    "category": "Embutido",
+    "calories": 166,
+    "protein": 18.5,
+    "fat": 9.5,
+    "carbs": 1.7
+  },
+  {
+    "name": "Lomo Embutido",
+    "category": "Embutido",
+    "calories": 199,
+    "protein": 38.0,
+    "fat": 5.0,
+    "carbs": 0.5
+  },
+  {
+    "name": "Queso Light Loncha",
+    "category": "Lácteos",
+    "calories": 300,
+    "protein": 28.0,
+    "fat": 20,
+    "carbs": 2.0
+  },
+  {
+    "name": "Nuez",
+    "category": "Frutos Secos",
+    "calories": 716,
+    "protein": 17.0,
+    "fat": 69.6,
+    "carbs": 1.7
+  },
+  {
+    "name": "Anacardo",
+    "category": "Frutos Secos",
+    "calories": 604,
+    "protein": 21.9,
+    "fat": 48.2,
+    "carbs": 7.7
+  },
+  {
+    "name": "Contramuslo Pollo",
+    "category": "Carne/Pescado",
+    "calories": 130,
+    "protein": 20,
+    "fat": 5.6,
+    "carbs": 0.0
+  },
+  {
+    "name": "Pechuga Pollo",
+    "category": "Carne/Pescado",
+    "calories": 59,
+    "protein": 10,
+    "fat": 0.4,
+    "carbs": 3.6
+  },
+  {
+    "name": "Carne Picada Pollo",
+    "category": "Carne/Pescado",
+    "calories": 144,
+    "protein": 17,
+    "fat": 7,
+    "carbs": 3
+  },
+  {
+    "name": "Filete Pavo",
+    "category": "Carne/Pescado",
+    "calories": 101,
+    "protein": 20,
+    "fat": 2.4,
+    "carbs": 0.0
+  },
+  {
+    "name": "Plátano",
+    "category": "Fruta/Verdura",
+    "calories": 89,
+    "protein": 1.1,
+    "fat": 0.3,
+    "carbs": 23.0
+  },
+  {
+    "name": "Arándano",
+    "category": "Fruta/Verdura",
+    "calories": 33,
+    "protein": 0.6,
+    "fat": 0.6,
+    "carbs": 6.05
+  },
+  {
+    "name": "Brócoli",
+    "category": "Fruta/Verdura",
+    "calories": 3.8,
+    "protein": 0.6,
+    "fat": 0.4,
+    "carbs": 7
+  },
+  {
+    "name": "Cebolla",
+    "category": "Fruta/Verdura",
+    "calories": 42,
+    "protein": 0.92,
+    "fat": 0.08,
+    "carbs": 10.11
+  },
+  {
+    "name": "Zanahoria",
+    "category": "Fruta/Verdura",
+    "calories": 41,
+    "protein": 0.93,
+    "fat": 0.24,
+    "carbs": 9.58
+  },
+  {
+    "name": "Calabacín",
+    "category": "Fruta/Verdura",
+    "calories": 16,
+    "protein": 1.21,
+    "fat": 0.18,
+    "carbs": 3.35
+  },
+  {
+    "name": "Tomate",
+    "category": "Fruta/Verdura",
+    "calories": 18,
+    "protein": 0.9,
+    "fat": 0.2,
+    "carbs": 3.9
+  },
+  {
+    "name": "Aguacate",
+    "category": "Fruta/Verdura",
+    "calories": 160,
+    "protein": 2,
+    "fat": 15,
+    "carbs": 9
+  },
+
+  {
+    "name": "Judía Verde",
+    "category": "Fruta/Verdura",
+    "calories": 31,
+    "protein": 1.8,
+    "fat": 0.22,
+    "carbs": 7
+  },
+  {
+    "name": "Patata",
+    "category": "Fruta/Verdura",
+    "calories": 85,
+    "protein": 2.0,
+    "fat": 0.1,
+    "carbs": 17.6
+  },
+  {
+    "name": "Boniato",
+    "category": "Fruta/Verdura",
+    "calories": 86,
+    "protein": 1.6,
+    "fat": 0.1,
+    "carbs": 20.0
+  },
+  {
+    "name": "Pan Integral",
+    "category": "Cereales",
+    "calories": 250,
+    "protein": 9.0,
+    "fat": 2.0,
+    "carbs": 50.0
+  },
+  {
+    "name": "Huevo",
+    "category": "Otros",
+    "calories": 147,
+    "protein": 12.58,
+    "fat": 9.94,
+    "carbs": 0.77
+  },
+  {
+    "name": "Arroz Hervido",
+    "category": "Cereales",
+    "calories": 116.7,
+    "protein": 2.4,
+    "fat": 0.73,
+    "carbs": 24.7
+  },
+  {
+    "name": "Variado de Setas",
+    "category": "Setas",
+    "calories": 22,
+    "protein": 2.1,
+    "fat": 0.3,
+    "carbs": 3.3
+  },
+  {
+    "name": "Manzana",
+    "category": "Fruta",
+    "calories": 52,
+    "protein": 0.26,
+    "fat": 0.17,
+    "carbs": 13.81
+  },
+  {
+    "name": "Agua de Coco Light",
+    "category": "Otros",
+    "calories": 20,
+    "protein": 0.02,
+    "fat": 0.0,
+    "carbs": 4.8
+  },
+  {
+    "name": "Agua",
+    "category": "Bebida",
+    "calories": 0,
+    "protein": 0.0,
+    "fat": 0.0,
+    "carbs": 0.0
+  },
+  {
+    "name": "Kéfir",
+    "category": "Lácteos",
+    "calories": 74,
+    "protein": 3.9,
+    "fat": 4.2,
+    "carbs": 5.1
+  },
+  {
+    "name": "Frutos Rojos Congelados",
+    "category": "Fruta/Verdura",
+    "calories": 39,
+    "protein": 0.9,
+    "fat": 0,
+    "carbs": 6.0
+  },
+  {
+    "name": "Fresas Congeladas",
+    "category": "Fruta/Verdura",
+    "calories": 30,
+    "protein": 0.7,
+    "fat": 0,
+    "carbs": 5.2
+  },
+  {
+    "name": "Quinoa Cocida",
+    "category": "Cereales",
+    "calories": 130,
+    "protein": 4.67,
+    "fat": 2.03,
+    "carbs": 22.02
+  },
+  {
+    "name": "Lentejas Cocidas",
+    "category": "Legumbres",
+    "calories": 89,
+    "protein": 8.2,
+    "fat": 0.1,
+    "carbs": 10.7
+  },
+  {
+    "name": "Filete Panga",
+    "category": "Carne/Pescado",
+    "calories": 71.3,
+    "protein": 15.1,
+    "fat": 1.21,
+    "carbs": 0
+  },
+  {
+    "name": "Bebida Avellana",
+    "category": "Otros",
+    "calories": 50,
+    "protein": 0.6,
+    "fat": 2.1,
+    "carbs": 6.9
+  }
+]

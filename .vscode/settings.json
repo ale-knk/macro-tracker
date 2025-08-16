@@ -1,0 +1,63 @@
+{
+    "autoDocstring.docstringFormat": "google",
+    "autoDocstring.guessTypes": true,
+    "autoDocstring.generateDocstringOnEnter": true,
+
+    // Formatter for Dockerfile files
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+
+    // Default formatter (Prettier)
+    "editor.bracketPairColorization.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.guides.bracketPairs": true,
+
+    // Formatter for Markdown files (Markdownlint with Prettier)
+    // https://github.com/DavidAnson/markdownlint/blob/main/doc/Prettier.md#list-item-indentation
+    "markdownlint.config": {
+        "list-marker-space": {
+            "ul_multi": 3,
+            "ul_single": 3
+        },
+        "ul-indent": {
+            "indent": 4
+        }
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.markdownlint": "explicit"
+        }
+    },
+
+    // Formatter for Python files (Ruff)
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit",
+            "source.organizeImports": "explicit"
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true
+    },
+    "ruff.fixAll": true,
+    "ruff.organizeImports": true,
+
+    "python.analysis.typeCheckingMode": "basic",
+    "python.defaultInterpreterPath": "/home/alejandro/anaconda3/envs/demand_pred/bin/python",
+    "python.testing.unittestArgs": ["-v", "-s", "./tests", "-p", "test_*.py"],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+
+    // Formatter for TOML files
+    "[toml]": {
+        "editor.defaultFormatter": "tamasfe.even-better-toml"
+    },
+
+    // Formatter for YAML files
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    }
+}

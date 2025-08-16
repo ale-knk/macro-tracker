@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: pymacro
+Version: 0.1.0
+Author-email: Alejandro Requena Bermejo <rb.jandro@gmail.com>
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: python-dotenv==1.0.1
+Requires-Dist: pydantic==2.9.2
+Requires-Dist: sqlalchemy==2.0.36
+
+# macro-tracker
+A Python project to track calories, protein, fats, and carbohydrates in custom meals and menus, with JSON data storage and visualization features.
